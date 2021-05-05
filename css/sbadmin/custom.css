@@ -1,0 +1,18 @@
+footer.sticky-footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    flex-shrink: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: left !important;
+}
+
+footer.sticky-footer .container{
+    margin-left: 0px;
+}
+
+footer.sticky-footer .copyright{
+    text-align: left !important;
+}
+
